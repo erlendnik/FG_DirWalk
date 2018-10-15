@@ -1,0 +1,6 @@
+C:\Users\erlnikol\Documents\Visual Studio 2015\Projects\FG_DirWalk\FG_DirWalk\bin\Debug\FG_DirWalk.exe.config
+C:\Users\erlnikol\Documents\Visual Studio 2015\Projects\FG_DirWalk\FG_DirWalk\obj\Debug\FG_DirWalk.exe
+C:\Users\erlnikol\Documents\Visual Studio 2015\Projects\FG_DirWalk\FG_DirWalk\obj\Debug\FG_DirWalk.pdb
+C:\Users\erlnikol\Documents\Visual Studio 2015\Projects\FG_DirWalk\FG_DirWalk\bin\Debug\FG_DirWalk.exe
+C:\Users\erlnikol\Documents\Visual Studio 2015\Projects\FG_DirWalk\FG_DirWalk\bin\Debug\FG_DirWalk.pdb
+C:\Users\erlnikol\Documents\Visual Studio 2015\Projects\FG_DirWalk\FG_DirWalk\obj\Debug\FG_DirWalk.csprojResolveAssemblyReference.cache
